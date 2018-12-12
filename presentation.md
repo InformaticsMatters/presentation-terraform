@@ -542,7 +542,7 @@ And... more importantly...
 
 
 -> You can find the presentation material on GitHub <-
--> *https://github.com/InformaticsMatters/presentation.terraform.git* <-
+-> *https://github.com/InformaticsMatters/presentation-terraform.git* <-
 
 
 
